@@ -189,14 +189,3 @@ To run the project on your local system, follow the procedure:
   2. The `arg` tag for the sketcher node has a value of 1
   3. Change this value to `0`
 - Here, 0 = sequential execution and 1 = parallel execution
-
-
-
----
-
-
-
-## Contact
-
-[<img src="./sketch/docs/linkedin_logo.png" alt="LinkedIn Logo" style="zoom: 25%;" />](https://www.linkedin.com/in/shilpaj-bhalerao/)[<img src="./sketch/docs/github_logo.png" style="zoom: 15%;">](https://github.com/Shilpaj1994) [<img src="./sketch/docs/youtube_logo.png" style="zoom: 35%;">](https://www.youtube.com/channel/UCucf49_Iau18mG5YFFCSpmw?view_as=subscriber)
-
