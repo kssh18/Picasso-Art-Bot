@@ -5,7 +5,7 @@
 [![portfolio](https://img.shields.io/badge/Koganti_Sri_Sai_Harshith-072F5F?style=for-the-badge)](https://github.com/kssh18)
 [![portfolio](https://img.shields.io/badge/Likhit_Kalla-E23?style=for-the-badge)](https://github.com/likhitkalla)
 [![portfolio](https://img.shields.io/badge/Yashwanth_Kiran-1e90ff?style=for-the-badge)](https://github.com/iyashk)
-[![portfolio](https://img.shields.io/badge/Sandeep_Neemkar-000?style=for-the-badge)](https://github.com/neemkarsandeep24)<br>
+[![portfolio](https://img.shields.io/badge/Sandeep_Neemkar-000?style=for-the-badge)](https://github.com/neemkarsandeep24)
 
 ## Overview
 
